@@ -214,12 +214,14 @@ New beaches (Mahabalipuram and future expansions) self-calibrate using Model Out
 
 ## Competitive Landscape
 
-| Platform | Based In | AOD Scoring | MOS Calibration | India Focus |
-|----------|----------|-------------|-----------------|-------------|
-| [SunsetWx](https://sunsetwx.com) | USA | No | No | Fallback only |
-| [Alpenglow](https://alpenglow.app) | USA | No | No | No |
-| [SkyCandy](https://skycandy.app) | USA/AU/UK | No | No | No |
-| **Seaside Beacon** | **India** | **Yes (top-weighted)** | **Yes** | **Native** |
+| Platform | Based In | Own Model | AOD Scoring | MOS Calibration | India Focus |
+|----------|----------|-----------|-------------|-----------------|-------------|
+| [SunsetWx](https://sunsetwx.com) | USA | Yes | No | No | Fallback only |
+| [Alpenglow](https://alpenglowapp.com) | USA | Yes (formerly SunsetWx) | Claims yes | No | No |
+| [SkyCandy](https://skycandy.app) | USA/AU/UK | No (SunsetWx API) | No | No | No |
+| [VIEWFINDR](https://viewfindr.net) | Germany | Yes (DWD data) | No | No | No |
+| [Sunsethue](https://sunsethue.com) | Netherlands | Yes (ray-based) | No | No | No |
+| **Seaside Beacon** | **India** | **Yes** | **Yes (top-weighted)** | **Yes** | **Native** |
 
 ---
 
